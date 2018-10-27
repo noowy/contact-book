@@ -1,5 +1,5 @@
 # contact-book
-Contact book based on hashtable data structure (UNI project)
+Contact book based on hashtable data structure (UNI project)  
 Console application
 
 To use the contact book you must create a txt file and fill it with contacts (if you have any).
