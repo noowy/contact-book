@@ -5,10 +5,10 @@ Console application
 To use the contact book you must create a txt file and fill it with contacts (if you have any).
 The format in which the enrties are kept is this:
 
-Phone number (+X (XXX) XXX-XX-XX) \n
-Contact's name \n
-Contact's address \n
-Contact's email \n
+Phone number (+X (XXX) XXX-XX-XX)  
+Contact's name  
+Contact's address  
+Contact's email  
 
 Entries are divided by newlines (one after another, don't need to make an additional one to separate them).
 
