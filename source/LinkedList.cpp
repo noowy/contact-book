@@ -133,10 +133,10 @@ void LinkedList::printList()
 		currentElem = nextElem;
 		if (currentElem != head)
 		{
-			cout << "Òåëåôîí: " << currentElem->phonenumber << endl;
-			cout << "Àáîíåíò: " << currentElem->name << endl;
-			cout << "Àäðåñ: " << currentElem->address << endl;
-			cout << "Email àäðåñ: " << currentElem->email << endl << endl;
+			cout << "Å‡ÄºÃ«ÄºÃ´Ã®Ã­: " << currentElem->phonenumber << endl;
+			cout << "Å”Ã¡Ã®Ã­ÄºÃ­Åˆ: " << currentElem->name << endl;
+			cout << "Å”Ã¤Ä‘ÄºÅ„: " << currentElem->address << endl;
+			cout << "Email Å•Ã¤Ä‘ÄºÅ„: " << currentElem->email << endl << endl;
 		}
 		nextElem = currentElem->nextsub;
 	}
